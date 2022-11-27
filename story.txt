@@ -1,9 +1,10 @@
 Olipa kerran tarina
-Tänne täytyy kirjoittaa tarina
-Paljon tekstiä sisälle
+Ja hyvä tarina se olikin.
+Tänne täytyy kirjoittaa se tarina,
+jossa on paljon tekstiä sisällä.
 diibadaaba liibalaaba 
-mikä on paljon
-mitä tänne kirjoitetaan
+mikä on paljon?
+mitä tänne kirjoitetaan?
 olipakerran juttu
 The End
 
