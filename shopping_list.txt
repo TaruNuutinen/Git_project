@@ -9,3 +9,4 @@
 -porkkana
 -punajuuri
 -herkkuja
+-farkut
